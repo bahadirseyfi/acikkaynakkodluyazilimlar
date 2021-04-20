@@ -1,6 +1,8 @@
 # acikkaynakkodluyazilimlar
 vize sınavı
 
+There are two methods of redirecting with docker compose and nginx file and docker file. Optionally, 2 methods can be used.
+
 After running the project "http://0.0.0.0:8080/test/" can be accessed from here.
 
 # Docker
